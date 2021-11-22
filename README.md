@@ -1,5 +1,5 @@
-### Tasarımlar Hakkında : 
+### About The Designs : 
 
-Bu repository kimse için kullanışlı değildir. Evde kızımın ve benim kırıp döktüğümüz ne kadar plastik eşya vs. varsa 
-FreeCad kullanarak tasarlayıp aynı ölçülerde 3D baskı alıp tamir ettim. Bir süre sonra bu dosyaları kaybetmeye/yönetememeye 
-başladığım için bu repository i açtım.
+This repository is not usefull for anyone. Whatever the plastic items that my daughter and I broke at home, 
+I designed/re-designed using FreeCad, then 3D printed and repaired them in the same dimensions. Then, I lost 
+these designs between multiple computer. So that's why I open up this repository.
